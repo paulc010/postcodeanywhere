@@ -7,7 +7,7 @@ Work in progress of a revised version of the postcodeanywhere.co.uk integration 
 Usage
 -------
 
-In order to use this module you will need an account with PostcodeAnywhere and a Capture+ key. You can sign up for a [**free trial account**](https://www.postcodeanywhere.co.uk/partners/indiv73276.aspx) which gives you free trial credit to test things out on your site.
+In order to use this module you will need an account with PostcodeAnywhere and a Capture+ key. You can sign up for a [**free trial account**](https://www.postcodeanywhere.co.uk/partners/indiv73276.aspx) which gives you free credits to allow you test the module on your site.
 
 First you need to download the module to your Prestashop installation. Download the Zip file and extract it into the modules folder of your Prestashop installation. Once you have completed this you will need to rename the created directory from *postcodeanywhere-master* (GitHub convention) to *postcodeanywhere*.
 
@@ -25,8 +25,8 @@ CHANGELOG
 
 Initial commit of upgraded version from v1.0
 
-- Added backward_compatibility module (https://github.com/PrestaShop/PrestaShop-backward_compatibility).
+- Added [backward_compatibility module](https://github.com/PrestaShop/PrestaShop-backward_compatibility).
 - Revised module code to Prestashop 1.5.x.
-- Revised to Prestashop 1.5 coding standards (http://doc.prestashop.com/display/PS15/Coding+Standards).
+- Revised to comply with [Prestashop 1.5 coding standards](http://doc.prestashop.com/display/PS15/Coding+Standards).
 - Moved inline css to file to allow theme overrides if required.
 - Moved inline javascript to external file.
