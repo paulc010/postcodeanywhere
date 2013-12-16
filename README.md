@@ -12,9 +12,9 @@ In order to use this module you will need an account with PostcodeAnywhere and a
 
 ![licence key][1]
 
-First you need to download the module to your Prestashop installation. Download the Zip file and extract it into the modules folder of your Prestashop installation. Once you have completed this you will need to rename the created directory from *postcodeanywhere-master* (GitHub convention) to *postcodeanywhere*.
+Next you need to download the module to your Prestashop installation. Download the Zip file and extract it into the modules folder of your Prestashop installation. Once you have completed this you will need to rename the created directory from *postcodeanywhere-master* (GitHub convention) to *postcodeanywhere*.
 
-To finalise the installation of the plugin, login to your PrestaShop admin panel and load the *Modules* page. Find the **UK and International Address Auto-Fill** module in the list of modules presented (it will be located under **Billing and Invoicing**) and click the corresponding *Install* button. You will then need to provide the module with your licence key. Do this by clicking *Configure* for the installed module (you may need to refresh the page for the option to become available). Once you have entered your key click *Update* to save the changes to the module.
+To finalise the installation of the plugin, login to your PrestaShop admin panel and load the *Modules* page. Find the **UK and International Address Auto-Fill** module in the list of modules presented (it will be located under **Billing and Invoicing**) and click the corresponding *Install* button. You will then need to provide the module with your licence key as per the image above (from within your account on the PostcodeAnywhere website). Do this by clicking *Configure* for the installed module (you may need to refresh the page for the option to become available). Once you have entered your key click *Update* to save the changes to the module.
 
 ![configure module][2]
 
