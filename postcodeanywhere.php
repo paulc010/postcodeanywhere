@@ -20,8 +20,8 @@ class PostcodeAnywhere extends Module
         
         parent::__construct();
         
-        $this->displayName = $this->l('UK & International Address Auto-Fill');
-        $this->description = $this->l('Add UK & International address auto-fill to your website for quick, accurate data capture.');
+        $this->displayName = $this->l('UK and International Address Auto-Fill');
+        $this->description = $this->l('Add UK and International address auto-fill to your website for quick, accurate data capture.');
         
         // Backward compatibility
         if (version_compare(_PS_VERSION_, '1.5', '<'))
