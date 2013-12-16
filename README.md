@@ -38,5 +38,3 @@ Initial commit of upgraded version from v1.0
 
 [1]: http://www.ecartserviceclients.co.uk/img/key.jpg "PostcodeAnywhere dashboard"
 [2]: http://www.ecartserviceclients.co.uk/img/configure-module.jpg "Prestashop module configuration"
-
-dd17-zg37-yz46-ee99
