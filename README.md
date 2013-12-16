@@ -1,8 +1,9 @@
 Prestashop PostcodeAnywhere integration module
 ==============================================
 
-Work in progress of a revised version of the postcodeanywhere.co.uk integration module
+An updated version of the [PostcodeAnywhere](https://www.postcodeanywhere.co.uk/partners/indiv73276.aspx) integration module. PostcodeAnywhere allows for a smoother and simpler checkout experience by providing postcode lookup and address auto-fill for registration and additional address forms in your store.
 
+Supports both UK and International address lookups.
 
 Usage
 -------
